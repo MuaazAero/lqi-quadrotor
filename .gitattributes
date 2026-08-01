@@ -1,0 +1,5 @@
+*.slx binary
+*.mat binary
+*.mp4 binary
+*.gif binary
+*.m linguist-language=MATLAB

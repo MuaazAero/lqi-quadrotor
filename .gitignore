@@ -1,0 +1,32 @@
+# Simulink build artifacts
+slprj/
+_slprj/
+*.slxc
+*.mdl.r*
+*.slx.r*
+*.autosave
+sccprj/
+
+# MATLAB
+*.asv
+*.m~
+*.mex*
+*.mat.bak
+codegen/
+html/
+octave-workspace
+
+# Generated code
+*_ert_rtw/
+*_grt_rtw/
+*_sfun*
+*.c.bak
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+*.swp
