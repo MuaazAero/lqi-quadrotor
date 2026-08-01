@@ -12,7 +12,7 @@ Part of a controller benchmark series (LQI · GA-LQI · MPC · GA-PID · NFSSMC)
 
 ![Block diagram](docs/img/block_diagram.png)
 
-Full-resolution vector version: [`docs/block_diagram_LQI.pdf`](docs/block_diagram_LQI.pdf)
+Full-resolution vector version: [block_diagram_LQI.pdf`](docs/block_diagram_LQI.pdf)
 
 ## Controller
 
